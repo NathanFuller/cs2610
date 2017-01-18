@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-
+#I don't know what I'm doing!!!
 from __future__ import print_function
 from random import randint
 import sys
